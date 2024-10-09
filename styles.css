@@ -2,6 +2,10 @@ th {
   border-bottom: 1px solid gray; 
 }
 
-td{
+td {
   text-align: center:;
+}
+
+td.left {
+  text-align: left;
 }
